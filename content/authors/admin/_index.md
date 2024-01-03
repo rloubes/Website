@@ -59,4 +59,4 @@ email: ""
 ---
 
 I am interested in trade and labor, especially how firm and workers adapt to trade policy in developing countries. Another part of my recent work addresses the organizational consequences of trade liberalization. Do not hesitate to <a href = mailto:romaine.loubes@psemail.eu></u>write :pen:</a></u> <br> <br>
-**Scheduled talks** : <a href = https://www.csae.ox.ac.uk/ ></u> CSAE </a></u>conference, Ofxord, UK (17-19 March 2024)
+**Scheduled talks** : <a href = https://www.csae.ox.ac.uk/ ></u> CSAE </a></u>conference, Ofxord, UK (17-19 March 2024), <a href = https://www.sole-jole.org/upcoming-meeting ></u> SOLE</a></u> annual meeting, Portland, Oregon (US) (3-4 May 2024)
