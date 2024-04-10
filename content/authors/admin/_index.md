@@ -14,7 +14,7 @@ role: PhD candidate in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Paris School of Economics
+- name: Paris School of Economics <br> Development, Labor and Trade Economics 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -41,12 +41,6 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
-  
-  
-Interests:
-- Development 
-- Labor 
-- International Trade
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
