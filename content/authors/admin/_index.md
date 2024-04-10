@@ -64,6 +64,6 @@ In Winter and Spring 2024, I will be visiting the LSE under the supervision of P
 **Scheduled talks** : <a href= https://citp.ac.uk/academic-conference ></u> Centre for Inclusive Trade Policy</a></u> Academic Conference, University of Nottingham (18-19 April 2024), <a href = https://www.sole-jole.org/upcoming-meeting ></u> SOLE</a></u> annual meeting, Portland, Oregon (US) (3-4 May 2024),
 <a href= https://www.eaye.info/eayeam/2024-edition ></u> European Association of Young Economists</a></u> Meeting, Paris School of Economics (23 - 25 May 2024),  
 <a href= https://www.afse.fr/fr/news/jma-2024-a-lille-appel-a-communications-2289 ></u> Journées de Microéconomie Appliquée</a></u> (JMA), Université Catholique de Lille (6-7 June 2024),
-<a href= https://icde2024.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en ></u> International Conference on Development Economics </a></u> (ICDE), AMSE (2-3 July 2024)
+<a href= https://icde2024.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en ></u> International Conference on Development Economics</a></u> (ICDE), AMSE (2-3 July 2024)
 
 
