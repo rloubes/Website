@@ -20,12 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Romaine Loubes is a doctoral candidate in economics at the Paris School of Economics, working in trade, labor and development. 
 
-Interests:
-- Development 
-- Labor 
-- International Trade
-
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,6 +41,12 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+  
+  
+Interests:
+- Development 
+- Labor 
+- International Trade
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
