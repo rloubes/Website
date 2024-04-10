@@ -58,7 +58,7 @@ email: ""
 #- Visitors
 ---
 
-I am a PhD candidate at PSE working under the supervision of Prs. David Margolis and Ariell Reshef. I am interested in trade and labor, especially how firm and workers adapt to trade policy in developing countries. Another part of my recent work addresses the organizational consequences of trade liberalization. <br>
-&#127757; Since March 2024 I am also the Coordinator for East and Southern Africa at the <a href= https://inequalitylab.world/en/ ></u> World Inequality Lab</a></u> <br>
-In Winter and Spring 2024, I will be visiting the LSE under the supervision of Pr. Rocco Macchiavello. Do not hesitate to <a href = mailto:romaine.loubes@psemail.eu></u>write :pen:</a></u> <br>
+I am a PhD candidate at PSE working under the supervision of Prs. David Margolis and Ariell Reshef. I am interested in trade and labor, especially how firm and workers adapt to trade policy in developing countries. Another part of my recent work addresses the organizational consequences of trade liberalization. <br><br>
+&#127757; Since March 2024 I am also the Coordinator for East and Southern Africa at the <a href= https://inequalitylab.world/en/ ></u> World Inequality Lab</a></u> <br><br>
+In Winter and Spring 2024, I will be visiting the LSE under the supervision of Pr. Rocco Macchiavello. Do not hesitate to <a href = mailto:romaine.loubes@psemail.eu></u>write :pen:</a></u> <br><br>
 **Scheduled talks** : <a href= https://citp.ac.uk/academic-conference ></u> Centre for Inclusive Trade Policy</a></u> Academic Conference, University of Nottingham (18-19 April 2024), <a href = https://www.sole-jole.org/upcoming-meeting ></u> SOLE</a></u> annual meeting, Portland, Oregon (US) (3-4 May 2024), <a href=https://www.eaye.info/eayeam/2024-edition ></u> European Association of Young Economists</a></u> Meeting, Paris School of Economics (23 - 25 May 2024)
