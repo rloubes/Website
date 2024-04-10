@@ -14,7 +14,8 @@ role: PhD candidate in Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Paris School of Economics <br> Development, Labor and Trade Economics 
+- name: Paris School of Economics 
+Development, Labor and Trade Economics 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
