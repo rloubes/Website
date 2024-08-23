@@ -54,7 +54,8 @@ email: ""
 
 I am a PhD candidate at PSE working under the supervision of Prs. David Margolis and Ariell Reshef. I am interested in **development,** **trade** and **labor economics**, especially how firm and workers adapt to trade policy in developing countries. Another part of my recent work addresses the organizational consequences of trade liberalization. <br><br>
 &#127757; Since March 2024 I am also the Coordinator for East and Southern Africa at the <a href= https://inequalitylab.world/en/ ></u> World Inequality Lab</a></u> <br><br>
-In Winter and Spring 2024, I will be visiting the LSE under the supervision of Pr. Rocco Macchiavello. Do not hesitate to <a href = mailto:romaine.loubes@psemail.eu></u>write :pen:</a></u> <br><br>
-**Scheduled talks** : <a href= https://citp.ac.uk/academic-conference ></u> Centre for Inclusive Trade Policy</a></u> Academic Conference, University of Nottingham (18-19 April 2024), <a href = https://www.sole-jole.org/upcoming-meeting ></u> SOLE</a></u> annual meeting, Portland, Oregon (US) (3-4 May 2024), <a href= https://www.eaye.info/eayeam/2024-edition ></u> European Association of Young Economists</a></u> Meeting, Paris School of Economics (23 - 25 May 2024), <a href= https://www.afse.fr/fr/news/jma-2024-a-lille-appel-a-communications-2289 ></u> Journées de Microéconomie Appliquée</a></u> (JMA), Université Catholique de Lille (6-7 June 2024), <a href=https://icde2024.sciencesconf.org/></u> International Conference on Development Economics</a></u> (JMA), (ICDE), AMSE (2-3 July 2024),
+In Fall 2024, I will be visiting UC Berkeley under the supervision of Pr. Mathilde Muñoz. Do not hesitate to <a href = mailto:romaine.loubes@psemail.eu></u>write :pen:</a></u> <br><br>
+In Winter and Spring 2024, was visiting the LSE under the supervision of Pr. Rocco Macchiavello.<br><br>
+**Scheduled talks** : <a href=https://eea-esem-congresses.org/></u> Meeting of the European Economics association</a></u> (EEA), <a href=https://cepr.org/events/event-series/development-economics-symposium/cepr-development-economics-annual-symposium-15/></u> CEPR DE Annual Symposium</a></u> (27-28 Sept. 2024)
 
 
