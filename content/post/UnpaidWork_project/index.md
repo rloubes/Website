@@ -1,6 +1,6 @@
 ---
-title: 'The insurance value of unpaid spousal labor: evidence from family
-firms in Rwanda'
+title: 'Unpaid Spousal Labor as Insurance Against Shocks: Evidence from Family
+Firms'
 summary: 
 authors:
 - admin
