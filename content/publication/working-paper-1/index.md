@@ -1,8 +1,8 @@
 ---
-title: "Trade-Displaced or Trade-Stuck? Self-Employed Workers and Adaptation to Trade Shocks in Low-Income Countries"
+title: "Trade-Displaced or Trade-Stuck? Self-Employment, Gendered Outside options and Trade Shocks Adaptation"
 authors: 
 - admin
-date: "2023"
+date: "2024"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
