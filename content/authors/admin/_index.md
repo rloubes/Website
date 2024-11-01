@@ -56,6 +56,6 @@ I am a PhD candidate at PSE working under the supervision of Prs. David Margolis
 In Fall 2024, I will be visiting UC Berkeley under the supervision of Pr. Mathilde Muñoz. Do not hesitate to <a href = mailto:romaine.loubes@psemail.eu></u>write :pen:</a></u> <br> 
 &#127757; Since March 2024 I am also the Coordinator for East and Southern Africa at the <a href= https://inequalitylab.world/en/ ></u> World Inequality Lab</a></u> <br>
 In Winter and Spring 2024, I was visiting the LSE under the supervision of Pr. Rocco Macchiavello.<br>
-**Scheduled talks** : <a href=https://eea-esem-congresses.org/></u> Meeting of the European Economics Association</a></u> (EEA), <a href=https://cepr.org/events/event-series/development-economics-symposium/cepr-development-economics-annual-symposium-15/></u> CEPR DE Annual Symposium</a></u> (27-28 Sept. 2024)
+**Scheduled talks** : <a href=https://www.csae.ox.ac.uk//></u> CSAE Conference, Oxford </a></u> (23-25 March 2025)
 
 
