@@ -1,5 +1,5 @@
 ---
-title: "Trade-Displaced or Trade-Stuck? Self-Employment, Gendered Outside options and Trade Shocks Adaptation"
+title: "The sources of factor immobility among self-employed workers"
 authors: 
 - admin
 date: "2024"
@@ -18,10 +18,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: The self-employed do not adapt to trade shocks like the salaried, making the most documented responses - unemployment, informality - not automatic in regions with prevalent self-employment. To study this, I use a used clothing import protection policy implemented by Rwanda which hit a self-employed retailers labor market. I provide evidence of this, put forward self-employment-specific adaptation strategies, formalize them through a time allocation framework and test the model's predictions that workers with lower quality of outside options adapt less. I uncover sizeable heterogeneity in women's time allocation responses relative to men, suggesting gendered effects of gender-neutral trade policy. 
+abstract: The self-employed do not adapt to trade shocks like the salaried, making the most documented responses - unemployment, informality - not automatic in regions with prevalent self-employment. To study this, I use a used clothing import protection policy implemented by Rwanda which hit a self-employed retailers labor market. I provide evidence of this, put forward self-employment-specific adaptation strategies, formalize them through a time allocation framework and test the model's predictions that workers with lower quality of outside options adapt less, along with workers who can leverage their spouse's labor to compensate for the shock's effect. I uncover sizeable heterogeneity in women's time allocation responses relative to men, suggesting gendered effects of gender-neutral trade policy. 
 # Summary. An optional shortened abstract.
 
-summary : The self-employed do not adapt to trade shocks like the salaried, making the most documented responses - unemployment, informality - not automatic in regions with prevalent self-employment. I provide evidence of this, put forward self-employment-specific adaptation strategies, formalize them through a time allocation framework and test the model's predictions that workers with lower quality of outside options adapt less. I uncover sizeable heterogeneity in women's time allocation responses relative to men, suggesting gendered effects of gender-neutral trade policy.   
+summary : The self-employed do not adapt to trade shocks like the salaried, making the most documented responses - unemployment, informality - not automatic in regions with prevalent self-employment. To study this, I use a used clothing import protection policy implemented by Rwanda which hit a self-employed retailers labor market. I provide evidence of this, put forward self-employment-specific adaptation strategies, formalize them through a time allocation framework and test the model's predictions that workers with lower quality of outside options adapt less, along with workers who can leverage their spouse's labor to compensate for the shock's effect. I uncover sizeable heterogeneity in women's time allocation responses relative to men, suggesting gendered effects of gender-neutral trade policy. 
 
 tags:
 - Source Themes
