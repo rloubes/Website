@@ -53,9 +53,9 @@ email: ""
 ---
 
 I am a PhD candidate at PSE working under the supervision of Prs. David Margolis and Ariell Reshef. I am interested in **development,** **trade** and **labor economics**, especially how firm and workers adapt to trade policy in developing countries. Another part of my recent work addresses the organizational consequences of trade liberalization. <br>
-In Fall 2024, I will be visiting UC Berkeley under the supervision of Pr. Mathilde Muñoz. Do not hesitate to <a href = mailto:romaine.loubes@psemail.eu></u>write :pen:</a></u> <br> 
+Do not hesitate to <a href = mailto:romaine.loubes@psemail.eu></u>write :pen:</a></u> <br> 
 &#127757; Since March 2024 I am also the Coordinator for East and Southern Africa at the <a href= https://inequalitylab.world/en/ ></u> World Inequality Lab</a></u> <br>
-In Winter and Spring 2024, I was visiting the LSE under the supervision of Pr. Rocco Macchiavello.<br>
-**Scheduled talks** : <a href=https://www.csae.ox.ac.uk//></u> CSAE Conference, Oxford </a></u> (23-25 March 2025)
+In Winter and Spring 2024, I was visiting the LSE under the supervision of Pr. Rocco Macchiavello and in the fall of 2024 I was visiting UC Berkeley under the supervision of Pr. Muñoz.<br>
+
 
 
