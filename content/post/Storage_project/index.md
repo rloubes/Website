@@ -1,10 +1,9 @@
 ---
-title: 'Import Competition and Outsourcing to Individual Workers (with A. Levelu)'
-subtitle: ''
+title: 'Unpaid Spousal Labor as Insurance Against Shocks: Evidence from Family
+Firms'
 summary: 
 authors:
 - admin
-- Anthonin Levelu (Université Paris Dauphine)
 date: "2023-12-16T00:00:00Z"
 lastmod: "2023-12-16T00:00:00Z"
 featured: false

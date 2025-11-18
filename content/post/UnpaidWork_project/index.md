@@ -1,9 +1,9 @@
 ---
-title: 'Unpaid Spousal Labor as Insurance Against Shocks: Evidence from Family
-Firms'
+title: 'Storage constraints, scaling up, and shock resilience'
 summary: 
 authors:
 - admin
+- D. Margolis 
 date: "2023-12-16T00:00:00Z"
 lastmod: "2023-12-16T00:00:00Z"
 featured: false
