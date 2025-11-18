@@ -3,8 +3,8 @@ title: 'Spousal Insurance and Structural Transformation'
 summary: Funded by STEG PhD Grant and STEG | G²M|LMIC Women's Work in the Market Grant. 
 authors:
 - admin
-date: "2025-12-16T00:00:00Z"
-lastmod: "2025-12-16T00:00:00Z"
+date: "2025-11-16T00:00:00Z"
+lastmod: "2025-11-16T00:00:00Z"
 featured: false
 draft: false
 
