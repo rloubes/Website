@@ -1,10 +1,10 @@
 ---
 title: 'Storage constraints, scaling up, and shock resilience'
-summary: 
+summary: funded by IGC SPF grant. <a href= https://www.theigc.org/collections/storage-constraints-scaling-and-shock-resilience ></u> See IGC report from focus groups in Kampala, Uganda </a></u>.
 authors:
 - admin
 - D. Margolis 
-date: "2023-12-16T00:00:00Z"
+date: "2025-11-18T00:00:00Z"
 lastmod: "2023-12-16T00:00:00Z"
 featured: false
 draft: false
