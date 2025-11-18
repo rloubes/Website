@@ -52,8 +52,8 @@ email: ""
 #- Visitors
 ---
 
-I am a PhD candidate at PSE working under the supervision of Prs. David Margolis and Ariell Reshef. Since 2024, I'm also the Coordinator for East and Southern Africa at the <a href= https://inequalitylab.world/en/ ></u> World Inequality Lab</a></u>. Since 2025, I'm a Research Fellow at J-PAL, working on the Inclusive Insurance Initiative. In Winter and Spring 2024, I was visiting the LSE under the supervision of Pr. Rocco Macchiavello and in the fall of 2024 I was visiting UC Berkeley under the supervision of Pr. Muñoz.<br><br>  
-I work on **development,** **trade** and **labor economics**. My research revolves around how vulnerable firms and workers manage risks. I have notably worked on outside employment options, and storage constraints, as determinants of the capacity to adapt to shocks, and on how the need to manage uncertainty creates interlinks between spouses' jobs, influencing structural transformation. <br>
+I am a PhD candidate at PSE working under the supervision of Prs. David Margolis and Ariell Reshef. Since 2024, I'm also the Coordinator for East and Southern Africa at the <a href= https://inequalitylab.world/en/ ></u> World Inequality Lab</a></u>. Since 2025, I'm a Research Fellow at J-PAL, working on the Inclusive Insurance Initiative. In Winter and Spring 2024, I was visiting the LSE under the supervision of Pr. Rocco Macchiavello and in the fall of 2024 I was visiting UC Berkeley under the supervision of Pr. Muñoz.<br>
+I work on **development,** **trade** and **labor economics**. My research revolves around how vulnerable firms and workers manage risks - specifically, on outside employment options and storage constraints as determinants of shock adaptation, and on how the need to manage uncertainty creates interlinks between spouses' jobs and influences structural transformation. <br>
 Do not hesitate to <a href = mailto:romaine.loubes@psemail.eu></u>write! :pen:</a></u> 
 
 
