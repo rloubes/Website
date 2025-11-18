@@ -1,10 +1,10 @@
 ---
-title: 'Unpaid Spousal Labor as Insurance Against Shocks: Evidence from Family
-Firms'
-summary: 
+title: 'Storage constraints, scaling up, and shock resilience'
+summary: funded by IGC SPF grant. <a href= https://www.theigc.org/collections/storage-constraints-scaling-and-shock-resilience ></u> See IGC report from focus groups in Kampala, Uganda </a></u>.
 authors:
 - admin
-date: "2023-12-16T00:00:00Z"
+- D. Margolis 
+date: "2025-11-18T00:00:00Z"
 lastmod: "2023-12-16T00:00:00Z"
 featured: false
 draft: false

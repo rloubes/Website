@@ -1,11 +1,10 @@
 ---
-title: 'Storage constraints, scaling up, and shock resilience'
-summary: funded by IGC SPF grant. <a href= https://www.theigc.org/collections/storage-constraints-scaling-and-shock-resilience ></u> See IGC report from focus groups in Kampala, Uganda </a></u>.
+title: 'Spousal Insurance and Structural Transformation'
+summary: Funded by STEG PhD Grant and STEG | G²M|LMIC Women's Work in the Market Grant. 
 authors:
 - admin
-- D. Margolis 
-date: "2025-11-18T00:00:00Z"
-lastmod: "2023-12-16T00:00:00Z"
+date: "2025-12-16T00:00:00Z"
+lastmod: "2025-12-16T00:00:00Z"
 featured: false
 draft: false
 

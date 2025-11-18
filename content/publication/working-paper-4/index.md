@@ -1,46 +1,12 @@
 ---
-title: "Equality and Development: A Comparative and Historical Perspective 1800-2025 (2025, WIL WP)"
+title: "Bias in parental investments and human capital gaps in India"
 authors:
-- admin 
-- Marie Andreescu 
-- Manuel Arias-Osorio 
-- Luis Bauluz
-- Nitin Bharti 
-- Philipp Bothe
-- Pierre Brassac
-- Lucas Chancel 
-- Mauricio de Rosa
-- Jonas Dietrich 
-- Dima El Harari 
-- Matthew Fisher-Post 
-- Ignacio Flores 
-- Valentina Gabrielli 
-- Amory Gethin 
-- Ricardo Gomez-Carrera 
-- Sehyun Hong 
-- Thanasak Jenmana 
-- Clara Martinez-Toledano 
-- Zhexun Mo 
-- Cornelia Mohren 
-- Marc Morgan 
-- Rowaida Moshrif 
-- Stella Muti 
-- Theresa Neef
-- Gaston Nievas
-- Moritz Odersky
-- Thomas Piketty 
-- Anne-Sophie Robilliard
-- Emmanuel Saez 
-- Alide Sodano
-- Anmol Somanchi 
-- Li Yang 
-- Gabriel Zucman
-- Alvaro Zuniga-Cordero
-date: "2025-11-17T00:00:00Z"
+- admin
+date: "2023-12-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-17-11T00:00:00Z"
+publishDate: "2023-16-12T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -52,14 +18,17 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: This paper uses extended series on income and wealth inequality from the World Inequality Database (WID) covering all world regions over the 1800-2025 period, together with new series on hourly productivity and human capital expenditure, to revisit the relationship between equality and development, with a much broader comparative and historical perspective than previous studies. Over the long-run, we find a strong positive association between equality and productivity. Our proposed interpretation is that the rise of inclusive “social-democratic” institutions (including extended access to human capital, public services and democratic participation) led both to more equality and higher productivity, particularly in Western and Nordic Europe. We discuss the implications for future sustainable development strategies.
+abstract: In this paper, I show evidence and produce policy recommendations about the impact of child gender on human capital production and parental investments. I adapt a dynamic model of human capital development, allow for gender-specific cognition and health factors, and estimate production and investment functions separately by genders. Although children produce skills very similarly across genders, parental investments are gender-biased in their elasticity to these skills. At an early age, differences in parental investments come from better returns on characteristics for boys, creating scarring effects and eventual skills gender gaps later on.
+
+# Summary. An optional shortened abstract.
+summary: Does gender inequality in parental investment come from them mis-measuring skills from the same objective measures across genders, or from biased conversion of these skills into investment? I adapt a dynamic model of skill formation and parental investment and show gender bias in parental appreciation of the same factor, with consequences on effective capital formation at later develomment stages. 
 
 tags:
 - Source Themes
 featured: false
 
 links:
-url_pdf: files/WP_EqualityDevelopment.pdf
+url_pdf: files/WP_HumanCapital.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
