@@ -50,8 +50,8 @@ email: ""
 #- Visitors
 ---
 
-I am a PhD candidate at PSE working under the supervision of Prs. David Margolis and Ariell Reshef. 
-Since 2024, I'm the Coordinator for East and Southern Africa at the <a href= https://inequalitylab.world/en/ ></u> World Inequality Lab</a></u>. 
+I am an economist at the High Commission for Strategy and Planning. I defended my PhD at the Paris School of Economics in October 2026, under the supervision of Prs. David Margolis and Ariell Reshef. 
+From 2024-2026, I was the Coordinator for East and Southern Africa at the <a href= https://inequalitylab.world/en/ ></u> World Inequality Lab</a></u>. 
 Since 2025, I'm also Research Fellow at  <a href= https://www.povertyactionlab.org ></u> J-PAL</a></u>, working on the Inclusive Insurance Initiative.
 In Winter and Spring 2024, I was visiting the LSE under the supervision of Pr. Rocco Macchiavello and in the fall of 2024 I was visiting UC Berkeley under the supervision of Pr. Muñoz.<br>
 
