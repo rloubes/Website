@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Romaine Loubes
+title: Romaine Loubes, PhD
 
 # Username (this should match the folder name)
 authors:
@@ -10,17 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Economics
+role: Economist, High Commission for Strategy and Planning, France and Research Fellow, J-PAL, Paris School of Economics 
 
 # Organizations/Affiliations
 organizations:
-- name: Paris School of Economics 
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Romaine Loubes is a doctoral candidate in economics at the Paris School of Economics, working in trade, labor and development. 
-
-
+bio: Romaine Loubes is an economist at the French High Commission for Strategy and Planning and a research fellow at J-PAL. She obtained her PhD in economics at the Paris School of Economics in 2026.
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
