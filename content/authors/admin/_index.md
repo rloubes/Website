@@ -48,9 +48,8 @@ email: ""
 #- Visitors
 ---
 
-I am an economist at the <a href=https://www.strategie-plan.gouv.fr/ ></u> High Commission for Strategy and Planning</a></u>, (formerly France Stratégie), the French government's think tank and strategic policy advisory institution.  <br>
-
-Since 2025, I am also  a Research Fellow  at  <a href= https://www.povertyactionlab.org ></u> J-PAL</a></u>, working on the impact of inclusive insurance. <br>
+I am an economist at the <a href=https://www.strategie-plan.gouv.fr/ ></u> High Commission for Strategy and Planning</a></u>, (formerly France Stratégie), the French government's think tank and strategic policy advisory institution, and 
+ a Research Fellow  at  <a href= https://www.povertyactionlab.org ></u> J-PAL</a></u>, where I work on the impact of inclusive insurance. <br>
 I defended my PhD at the Paris School of Economics in October 2026, under the supervision of Prs. David Margolis and Ariell Reshef. During my PhD, I visited Pr. Rocco Macchiavello at the LSE and Pr. Mathilde Muñoz at UC Berkeley.
 
 My research interests are **development,** **trade** and **labor economics**. My research revolves around how being self-employed changes the decision margins available to workers with implications for the decision-making processes of other household memebrs, and the effect of policy in places where self-employment is prevalent. 
