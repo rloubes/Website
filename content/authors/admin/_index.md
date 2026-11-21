@@ -48,13 +48,18 @@ email: ""
 #- Visitors
 ---
 
-I am an economist at the High Commission for Strategy and Planning. I defended my PhD at the Paris School of Economics in October 2026, under the supervision of Prs. David Margolis and Ariell Reshef. 
+I am an economist at the <a href=https://www.strategie-plan.gouv.fr/ ></u> High Commission for Strategy and Planning</a></u>, (formerly France Stratégie), the French government's think tank and strategic policy advisory institution.  
+
+I defended my PhD at the Paris School of Economics in October 2026, under the supervision of Prs. David Margolis and Ariell Reshef. 
+My research interests are **development,** **trade** and **labor economics**. My research revolves around how being self-employed changes the decision margins available to workers and their households, and in turn, how prevalent self-employment influences the impact of trade and labor policy in low-income countries.  <br>
+ 
+
+
 From 2024-2026, I was the Coordinator for East and Southern Africa at the <a href= https://inequalitylab.world/en/ ></u> World Inequality Lab</a></u>. 
 Since 2025, I'm also Research Fellow at  <a href= https://www.povertyactionlab.org ></u> J-PAL</a></u>, working on the Inclusive Insurance Initiative.
 In Winter and Spring 2024, I was visiting the LSE under the supervision of Pr. Rocco Macchiavello and in the fall of 2024 I was visiting UC Berkeley under the supervision of Pr. Muñoz.<br>
 
-I work on **development,** **trade** and **labor economics**. My research revolves around how vulnerable firms and workers manage risks - specifically, on outside employment options and storage constraints as determinants of shock adaptation, and on how the need to manage uncertainty creates interlinks between spouses' jobs and influences structural transformation. <br>
-Do not hesitate to <a href = mailto:romaine.loubes@psemail.eu></u>write! :pen:</a></u> 
+not hesitate to <a href = mailto:romaine.loubes@psemail.eu></u>write! :pen:</a></u> 
 
 
 
