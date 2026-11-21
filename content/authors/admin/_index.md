@@ -52,8 +52,7 @@ I am an economist at the <a href=https://www.strategie-plan.gouv.fr/ ></u> High 
  a Research Fellow  at  <a href= https://www.povertyactionlab.org ></u> J-PAL</a></u>, where I work on the impact of inclusive insurance. <br>
 I defended my PhD at the Paris School of Economics in October 2026, under the supervision of Prs. David Margolis and Ariell Reshef. During my PhD, I visited Pr. Rocco Macchiavello at the LSE and Pr. Mathilde Muñoz at UC Berkeley.
 
-My research interests are **development,** **trade** and **labor economics**. My research revolves around how being self-employed changes the decision margins available to workers with implications for the decision-making processes of other household memebrs, and the effect of policy in places where self-employment is prevalent. 
-
+My research interests are **development,** **trade** and **labor economics**, and self-employment in particular. A stream of my research revolves around how self-employment changes the decision margins available to workers and in turn, those available to their families, and finally policy incidence in areas where self-employment is prevalent. 
 From 2024-2026, I was the Coordinator for East and Southern Africa at the <a href= https://inequalitylab.world/en/ ></u> World Inequality Lab</a></u>. 
 
 Do not hesitate to <a href = mailto:romaine.loubes@psemail.eu></u>write! :pen:</a></u> 
