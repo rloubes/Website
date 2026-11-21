@@ -49,10 +49,11 @@ email: ""
 ---
 
 I am an economist at the <a href=https://www.strategie-plan.gouv.fr/ ></u> High Commission for Strategy and Planning</a></u>, (formerly France Stratégie), the French government's think tank and strategic policy advisory institution, and  a Research Fellow  at the  <a href= https://www.povertyactionlab.org ></u> J-PAL</a></u> x AXA EssentiALL  <a href= https://www.povertyactionlab.org/publication/take-impact-evidence-and-research-gaps-inclusive-insurance></u>  research collaboration on inclusive insurance </a></u><br>
-I defended my PhD at the Paris School of Economics in October 2026, under the supervision of Prs. David Margolis and Ariell Reshef. During my PhD, I visited Pr. Rocco Macchiavello at the LSE and Pr. Mathilde Muñoz at UC Berkeley. <br>
 
-My research interests are **development,** **trade** and **labor economics**, and self-employment in particular. A stream of my research studies the impacts of self-employment on shock resilience and job choice at the household level in East Africa, using case studies from trade and financial inclusion policy as well as data collection on under-documented inputs such as storage. I also study the measure of hours worked in domestic and economic labor in a global and historical perspective.
-From 2024-2026, I was the Coordinator for East and Southern Africa at the <a href= https://inequalitylab.world/en/ ></u> World Inequality Lab</a></u>. 
+My research is in **development,** **trade** and **labor economics**. A stream of my research studies the impacts of self-employment on shock resilience and job choice at the household level in East Africa, using case studies from trade and financial inclusion policy as well as data collection on under-documented inputs such as storage. I have also worked on the measure of hours worked in domestic and economic labor in a global and historical perspective and on the impact of gendered parental investments for human capital formation.
+
+I defended my PhD at the Paris School of Economics in October 2026, under the supervision of Prs. David Margolis and Ariell Reshef. During my PhD, I visited Pr. Rocco Macchiavello at the LSE and Pr. Mathilde Muñoz at UC Berkeley. From 2024-2026, I was the Coordinator for East and Southern Africa at the <a href= https://inequalitylab.world/en/ ></u> World Inequality Lab</a></u>. 
+
 
 Do not hesitate to <a href = mailto:romaine.loubes@psemail.eu></u>write! :pen:</a></u> 
 
