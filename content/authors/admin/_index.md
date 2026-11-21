@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Economist, High Commission for Strategy and Planning, France and Research Fellow, J-PAL, Paris School of Economics 
+role: Economist, High Commission for Strategy and Planning, France <br> Research Fellow, J-PAL, Paris School of Economics 
 
 # Organizations/Affiliations
 organizations:
