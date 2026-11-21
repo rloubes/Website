@@ -57,7 +57,7 @@ My research interests are **development,** **trade** and **labor economics**. My
 
 From 2024-2026, I was the Coordinator for East and Southern Africa at the <a href= https://inequalitylab.world/en/ ></u> World Inequality Lab</a></u>. 
 
-not hesitate to <a href = mailto:romaine.loubes@psemail.eu></u>write! :pen:</a></u> 
+Do not hesitate to <a href = mailto:romaine.loubes@psemail.eu></u>write! :pen:</a></u> 
 
 
 
