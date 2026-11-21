@@ -26,7 +26,7 @@ font = "native"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Big Ten University"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Job Candidate is a PhD Candidate in Economics at Paris School of Economics"
+description = "Job Candidate is an economist at the High Commission for Strategy and Planning in Paris"
 
 ############################
 ## Site Features
@@ -125,9 +125,6 @@ contact_links = [
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
 sharing_image = ""
-
-# Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "r_loubes"
 
 ############################
 ## Regional Settings
