@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Romaine Loubes, PhD
+title: Romaine Loubes
 
 # Username (this should match the folder name)
 authors:
