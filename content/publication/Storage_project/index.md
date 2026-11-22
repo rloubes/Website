@@ -33,7 +33,7 @@ featured: false
 
 links:
 - name: IGC project
- url: https://www.theigc.org/collections/storage-constraints-scaling-and-shock-resilience
+  url: https://www.theigc.org/collections/storage-constraints-scaling-and-shock-resilience
 url_pdf: ''
 url_code: ''
 url_dataset: ''
