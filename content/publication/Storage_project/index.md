@@ -18,8 +18,8 @@ publishDate: "2023-12-16T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-# Publication name and optional abbreviated publication name.
-publication: ""
+# Publication ame and optional abbreviated publication name.
+publication: "*(funded by IGC SPF grant)$"
 publication_short: ""
 
 abstract: The self-employed do not adapt to trade shocks like the salaried, making the most documented responses - unemployment, informality - not automatic in regions with prevalent self-employment. To study this, I use a used clothing import protection policy implemented by Rwanda which hit a self-employed retailers labor market. I provide evidence of this, put forward self-employment-specific adaptation strategies, formalize them through a time allocation framework and test the model's predictions that workers with lower quality of outside options adapt less, along with workers who can leverage their spouse's labor to compensate for the shock's effect. I uncover sizeable heterogeneity in women's time allocation responses relative to men, suggesting gendered effects of gender-neutral trade policy. 
@@ -32,9 +32,8 @@ tags:
 featured: false
 
 links:
-- name: IGC project
-  url: https://www.theigc.org/collections/storage-constraints-scaling-and-shock-resilience
-url_pdf: ''
+- name: IGC project report 
+  url: https://www.theigc.org/publications/storage-constraints-and-resistance-shocks
 url_code: ''
 url_dataset: ''
 url_poster: ''
