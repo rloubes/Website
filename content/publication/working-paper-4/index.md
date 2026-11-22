@@ -28,7 +28,9 @@ tags:
 featured: false
 
 links:
-url_pdf: files/WP_HumanCapital.pdf
+- name : Working Paper
+  url :  files/WP_HumanCapital.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

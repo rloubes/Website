@@ -27,10 +27,16 @@ tags:
 featured: false
 
 links:
-url_pdf: files/P_InclusiveInsurance.pdf
+- name: J-PAL Whitepaper
+  url : 'files/P_InclusiveInsurance.pdf'
+- name: J-PAL x AXA Executive Summary 
+  url : 'files/EC_InclusiveInsurance.pdf'
+- name: Financial Inclusion Week panel 
+  url : https://urldefense.com/v3/__https:/www.youtube.com/watch?v=oHBOm8hivWo__;!!BnkV9pdh5V0!BMFRsLs6Y1P9P09fLmFpRp7m8V0tvVLXjS1yl8pJqay673kS6Vg7ZOg42SvZGjQQD_mAWF0zH2CgwOVq_F3ki_Bo34a3cZO3Dg$
+url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: 'files/EC_InclusiveInsurance.pdf'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
