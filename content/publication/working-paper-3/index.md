@@ -1,11 +1,11 @@
 ---
-title: "Global Labour Hours in Paid & Unpaid Work: Inequality, Productivity and Structural Transformation 1800-2100 (2025) (WIL WP, under review) "
+title: "Global Labour Hours in Paid & Unpaid Work: Inequality, Productivity and Structural Transformation 1800-2100 (under review) "
 authors:
 - Marie Andreescu
 - admin
 - Thomas Piketty
 - Anne-Sophie Robilliard
-date: "2025-11-17T00:00:00Z"
+date: "2026-11-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,7 +28,8 @@ tags:
 featured: false
 
 links:
-url_pdf: files/WP_LabourHours.pdf
+- name: Working Paper
+  url: files/WP_LabourHours.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

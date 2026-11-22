@@ -1,41 +1,7 @@
 ---
 title: "Equality and Development: A Comparative and Historical Perspective 1800-2025 (2025, WIL WP)"
 authors:
-- admin 
-- Marie Andreescu 
-- Manuel Arias-Osorio 
-- Luis Bauluz
-- Nitin Bharti 
-- Philipp Bothe
-- Pierre Brassac
-- Lucas Chancel 
-- Mauricio de Rosa
-- Jonas Dietrich 
-- Dima El Harari 
-- Matthew Fisher-Post 
-- Ignacio Flores 
-- Valentina Gabrielli 
-- Amory Gethin 
-- Ricardo Gomez-Carrera 
-- Sehyun Hong 
-- Thanasak Jenmana 
-- Clara Martinez-Toledano 
-- Zhexun Mo 
-- Cornelia Mohren 
-- Marc Morgan 
-- Rowaida Moshrif 
-- Stella Muti 
-- Theresa Neef
-- Gaston Nievas
-- Moritz Odersky
-- Thomas Piketty 
-- Anne-Sophie Robilliard
-- Emmanuel Saez 
-- Alide Sodano
-- Anmol Somanchi 
-- Li Yang 
-- Gabriel Zucman
-- Alvaro Zuniga-Cordero
+- Marie Andreescu et al.
 date: "2025-11-17T00:00:00Z"
 doi: ""
 
@@ -59,7 +25,8 @@ tags:
 featured: false
 
 links:
-url_pdf: files/WP_EqualityDevelopment.pdf
+- name : Working paper
+  url: files/WP_EqualityDevelopment.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
