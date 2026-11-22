@@ -30,6 +30,8 @@ featured: false
 links:
 - name: Working Paper
   url: files/WP_LabourHours.pdf
+- name: LSE Blog Post 
+  url : https://blogs.lse.ac.uk/inequalities/2026/06/09/women-work-more-than-men-but-the-economy-still-pays-them-less-gender-pay-gap-domestic-work/
 url_code: ''
 url_dataset: ''
 url_poster: ''
