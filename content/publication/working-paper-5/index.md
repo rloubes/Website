@@ -3,7 +3,7 @@ title: "From Take-up to Impact: Evidence and Research Gaps on Inclusive Insuranc
 authors:
 - Shawn Cole
 - admin
-date: "2026-10-17T00:00:00Z""
+date: "2026-10-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
