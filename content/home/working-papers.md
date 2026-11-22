@@ -32,13 +32,14 @@ subtitle = ""
     exclude_featured = false
   
 [design]
+  columns = "1"
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
   view = 4
-  columns = "1"
+
   
 [design.background]
   # Apply a background color, gradient, or image.
