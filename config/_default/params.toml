@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Big Ten University"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Job Candidate is an economist at the High Commission for Strategy and Planning in Paris"
+description = "Romaine is an economist at the High Commission for Strategy and Planning in Paris"
 
 ############################
 ## Site Features
@@ -112,7 +112,6 @@ address = {street = "Haut-Commissariat à la Stratégie et au Plan, 20 avenue de
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "r_loubes", link = "https://twitter.com/r_loubes/"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
