@@ -2,7 +2,7 @@
 title: "The sources of factor immobility among self-employed workers"
 authors: 
 - admin
-date: "2024"
+date: "2026"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,10 +28,14 @@ tags:
 featured: false
 
 links:
-url_pdf: files/WP_TradeStuck.pdf
+- name : Working paper
+  url : files/WP_TradeStuck.pdf
+- name : CEPR Poster
+  url : 'files/Poster_RomaineLoubes_CEPR.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: 'files/Poster_RomaineLoubes_CEPR.pdf'
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
