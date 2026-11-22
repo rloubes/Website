@@ -32,7 +32,7 @@ tags:
 featured: false
 
 links:
-url_pdf: ''
+url_pdf: https://www.theigc.org/collections/storage-constraints-scaling-and-shock-resilience
 url_code: ''
 url_dataset: ''
 url_poster: ''
