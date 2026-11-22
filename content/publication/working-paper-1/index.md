@@ -2,7 +2,7 @@
 title: "The sources of factor immobility among self-employed workers"
 authors: 
 - admin
-date: "2026"
+date: "2026-12-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

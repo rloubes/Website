@@ -1,12 +1,12 @@
 ---
-title: "Equality and Development: A Comparative and Historical Perspective 1800-2025 (2025, WIL WP)"
+title: "Equality and Development: A Comparative and Historical Perspective 1800-2025 (WIL WP)"
 authors:
 - Marie Andreescu et al.
 date: "2025-11-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-17-11T00:00:00Z"
+publishDate: "2026-17-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
